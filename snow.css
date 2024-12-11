@@ -1,0 +1,5 @@
+header {background-color: rgba(254, 255, 187, 0.85); font-size: 5; font-family: cursive; font-style: italic; padding: 1%; color: gray;box-shadow: 5px 10px 5px rgba(0, 0, 0, 0.342);}
+.bigdiv {margin-left: 25%; margin-right: 25%; background-color: rgba(254, 255, 187, 0.85); height: 630px; padding: 1%; margin-top: 3%; box-shadow: 5px 10px 5px rgba(0, 0, 0, 0.342);}
+body {background-image: url(green.jpg); background-size: cover;}
+a {font-family: cursive; font-style: italic;}
+.item {font-family: cursive; font-style: italic;}
