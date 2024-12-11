@@ -3,3 +3,4 @@ header {background-color: rgba(254, 255, 187, 0.85); font-size: 5; font-family: 
 body {background-image: url(green.jpg); background-size: cover;}
 a {font-family: cursive; font-style: italic;}
 .item {font-family: cursive; font-style: italic;}
+.footer {position: absolute; top: 20%; left: 80%; font-family: cursive; font-style: italic; width: 200px; background-color: rgba(254, 255, 187, 0.85); padding: 1%; font-size: small;}
